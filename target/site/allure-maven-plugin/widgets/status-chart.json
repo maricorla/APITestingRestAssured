@@ -1,0 +1,21 @@
+[ {
+  "uid" : "ef824c2444a65db9",
+  "name" : "loginTest",
+  "time" : {
+    "start" : 1610992852124,
+    "stop" : 1610992857586,
+    "duration" : 5462
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f3fbd13ea762fff",
+  "name" : "getListOfCategories",
+  "time" : {
+    "start" : 1610992857776,
+    "stop" : 1610992858213,
+    "duration" : 437
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

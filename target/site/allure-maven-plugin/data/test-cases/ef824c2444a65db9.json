@@ -1,0 +1,61 @@
+{
+  "uid" : "ef824c2444a65db9",
+  "name" : "loginTest",
+  "fullName" : "Examples.Chapter2Test.loginTest",
+  "historyId" : "544ec7974e8de2fe26fa6614480d45d6",
+  "time" : {
+    "start" : 1610992852124,
+    "stop" : 1610992857586,
+    "duration" : 5462
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Examples.Chapter2Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Examples.Chapter2Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Examples.Chapter2Test"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-88SF4JDS"
+  }, {
+    "name" : "thread",
+    "value" : "18540@LAPTOP-88SF4JDS.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ef824c2444a65db9.json",
+  "parameterValues" : [ ]
+}
