@@ -17,6 +17,18 @@
         <jackson.databind.version>2.9.8</jackson.databind.version>
         <groovy.version>3.0.4</groovy.version>
     </properties>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>13</source>
+                    <target>13</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
     <dependencies>
         <dependency>
             <groupId>io.rest-assured</groupId>
