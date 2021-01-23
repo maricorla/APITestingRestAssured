@@ -3,7 +3,7 @@
 <suite name="Smoke" verbose="1" >
     <test name="Api testing"   >
         <classes>
-            <class name="Examples.Chapter2Test" />
+            <class name="tests.Chapter2Test" />
         </classes>
     </test>
 </suite>

@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-01-18T19:00:51 CET" name="Surefire suite" finished-at="2021-01-18T19:00:58 CET" duration-ms="6301">
+  <suite started-at="2021-01-21T15:06:23 CET" name="Surefire suite" finished-at="2021-01-21T15:06:35 CET" duration-ms="11790">
     <groups>
     </groups>
-    <test started-at="2021-01-18T19:00:51 CET" name="Surefire test" finished-at="2021-01-18T19:00:58 CET" duration-ms="6301">
+    <test started-at="2021-01-21T15:06:23 CET" name="Surefire test" finished-at="2021-01-21T15:06:35 CET" duration-ms="11790">
       <class name="Examples.Chapter2Test">
-        <test-method signature="loginTest()[pri:1, instance:Examples.Chapter2Test@5a772895]" started-at="2021-01-18T19:00:52 CET" name="loginTest" finished-at="2021-01-18T19:00:57 CET" duration-ms="5555" status="PASS">
+        <test-method signature="loginTest()[pri:1, instance:Examples.Chapter2Test@60b85ba1]" started-at="2021-01-21T15:06:23 CET" name="loginTest" description="Login with good credentials" finished-at="2021-01-21T15:06:34 CET" duration-ms="10432" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="getListOfCategories()[pri:2, instance:Examples.Chapter2Test@5a772895]" started-at="2021-01-18T19:00:57 CET" name="getListOfCategories" finished-at="2021-01-18T19:00:58 CET" duration-ms="442" status="PASS">
+        <test-method signature="getListOfCategories()[pri:2, instance:Examples.Chapter2Test@60b85ba1]" started-at="2021-01-21T15:06:34 CET" name="getListOfCategories" description="testng check" finished-at="2021-01-21T15:06:35 CET" duration-ms="742" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getListOfCategories -->
